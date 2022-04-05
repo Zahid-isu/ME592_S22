@@ -6,3 +6,14 @@ contains a large amount of annotated driving data such as 2D bounding boxes, ima
 https://arxiv.org/pdf/1805.04687.pdf
 
 Dataset website: https://bdd-data.berkeley.edu/
+
+Documentaion: https://doc.bdd100k.com/
+
+@InProceedings{bdd100k,
+    author = {Yu, Fisher and Chen, Haofeng and Wang, Xin and Xian, Wenqi and Chen,
+              Yingying and Liu, Fangchen and Madhavan, Vashisht and Darrell, Trevor},
+    title = {BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning},
+    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2020}
+}
