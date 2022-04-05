@@ -1,0 +1,8 @@
+Dataset description:
+
+In this homework, we did the training of a simple network to classify the weather conditions while driving. 
+Berkeley DeepDrive dataset: https://bdd-data.berkeley.edu/
+contains a large amount of annotated driving data such as 2D bounding boxes, image segmentation, drivable areas and so on. You can read more about the dataset here,
+https://arxiv.org/pdf/1805.04687.pdf
+
+Dataset website: https://bdd-data.berkeley.edu/
